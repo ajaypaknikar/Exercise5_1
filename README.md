@@ -1,3 +1,4 @@
+# AI/ML Course - Exercise 5.1 Read.Me
 This repository contains the details of the analysis from the practical application assignment 5.1
 The primary intent of this analysis was to answer the following question: Will the customer accept the coupons? 
 
